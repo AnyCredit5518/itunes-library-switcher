@@ -18,7 +18,7 @@ The Shift key interaction is not hard, but it is hidden and easy to forget over 
 
 ## Want a GUI Instead?
 
-**[$3.99 on Ko-fi →](https://ko-fi.com/s/203812a2b6)**
+**[on Ko-fi →](https://ko-fi.com/s/203812a2b6)**
 
 If you'd rather not set up Python and `.cmd` files, or you just want to buy me a coffee for this investigation, there's a **desktop app** version with a point-and-click interface:
 
