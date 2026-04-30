@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# ProcMon log exports - these contain full system traces and may include
+# sensitive file paths from your machine. Do not commit them.
+*.CSV
+*.csv
+Logfile-*.CSV
+
+# Personal launcher scripts (contain your actual library paths)
+# Copy from examples/ and customise locally - do not commit personal copies
+iTunes - *.cmd
+
+# macOS metadata
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
